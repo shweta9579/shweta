@@ -1,17 +1,16 @@
 [
-    {
-      "id": 1,
-      "name": "shweta",
-      "age": 23
-    },
-    {
-      "id": 2,
-      "name": "shubhangi",
-      "age": 24
-    },
-  {
-      "id": 3,
-      "name": "tanaya",
-      "age": 25
-    }
- ]
+	{
+		"employee": {
+			"firstName": "Lokesh",
+			"lastName": "Gupta",
+			"website": "howtodoinjava.com"
+		}
+	},
+	{
+		"employee": {
+			"firstName": "Brian",
+			"lastName": "Schultz",
+			"website": "example.com"
+		}
+	}
+]
